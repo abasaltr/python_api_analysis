@@ -1,4 +1,4 @@
-# python_api_homework6
+# python_api_analysis
 
 Please note the following points of interest below regarding this assignment:
 1.	WeatherPy script pulls data from either a CSV file OR the required API and is intended for the purpose of saving incoming response rate redundancy and added flexibility. In addition, data is retrievable daily that is adjustable as needed. Before running the notebook, ensure the following parameters are met. By default, it is retrieving data from API sources on the current day. For all weather information, temperature is retrieved in unit Fahrenheit. 
